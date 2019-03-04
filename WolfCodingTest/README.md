@@ -15,7 +15,7 @@ run the following command in the terminal `./mvnw spring-boot:run`
  Build the jar file with the following command `./mvnw clean package`
  To run the application, from a terminal execute the following command `java -jar target/WolfCodingTest-0.0.1-SNAPSHOT.jar`
  
-##### Make request
+### Make request
 Once the application is running, one is able to obtain information by curling the endpoint, or using a tool such as Postman 
 if that is a preferred tool. 
 There are two endpoints.  One endpoint returns a sentence containing information about the queried zip code.  The other
