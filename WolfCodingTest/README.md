@@ -8,10 +8,10 @@ for the zip code, and current temperature for the provided zipcode.
 This project uses Maven.
 The application can be run either with a script or by running the jar.
 
-####To use the script:
+#### To use the script:
 run the following command in the terminal `./mvnw spring-boot:run`
 
-####Build the jar file
+#### Build the jar file
  Build the jar file with the following command `./mvnw clean package`
  To run the application, from a terminal execute the following command `java -jar target/WolfCodingTest-0.0.1-SNAPSHOT.jar`
  
